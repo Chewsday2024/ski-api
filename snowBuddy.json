@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "apple男",
-      "profileImg": "/public/1x1_white_adult_ski_coach.png",
+      "profileImg": "/1x1_white_adult_ski_coach.png",
       "skills": ["單板","雙板"],
       "sex": "male",
       "LV": 5,
