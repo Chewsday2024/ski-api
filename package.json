@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"node server.js\" \"json-server --watch snowBuddy.json --host 0.0.0.0\""
+    "start": "json-server --watch snowBuddy.json --host 0.0.0.0"
   },
   "keywords": [],
   "author": "",
