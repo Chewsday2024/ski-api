@@ -65,12 +65,24 @@
             "profileImg": "https://images.unsplash.com/photo-1535813449-9b1b28174821?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "date": "2025 / 11 / 19",
             "comment": "教練的講解很清楚！我很快就上手了！",
-            "rate": 4
+            "rate": 4.5
           },
           "response": {
             "date": "2025 / 11 / 20",
             "comment": "謝謝同學！歡迎再來找我學習！"
           }
+        }
+      ],
+      "teachingSchedule": [
+        {
+          "title": "數位課程 - 9:00 AM",
+          "start": "2025-01-01",
+          "end": "2025-01-01"
+        },
+        {
+          "title": "線上研討會 - 2:00 PM",
+          "start": "2025-02-01",
+          "end": "2025-02-01"
         }
       ]
     },{
