@@ -339,17 +339,15 @@
       "reviews": [{
           "id": 1,
           "student": {
-            "name": "cat",
-            "profileImg": "https://images.unsplash.com/photo-1734671223970-16adb03bedb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHhqUFI0aGxrQkdBfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "這怎麼那麼好吃！",
-            "rate": 4.5
+            "name": "Amy",
+            "profileImg": "https://images.unsplash.com/photo-1521325213791-4d8df00eee81?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2023 / 04 / 15",
+            "comment": "教學細心又專業，讓我從零基礎變成能獨立滑行！",
+            "rate": 4.1
           },
           "response": {
-            "name": "apple",
-            "profileImg": "https://images.unsplash.com/photo-1735500810691-054f62b7bea1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfEJuLURqcmNCcndvfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "真是太棒了！"
+            "date": "2023 / 04 / 16",
+            "comment": "很高興你享受滑雪的樂趣，這就是我最想帶給學員的！"
           }
         }
       ]
@@ -401,17 +399,15 @@
       "reviews": [{
           "id": 1,
           "student": {
-            "name": "cat",
-            "profileImg": "https://images.unsplash.com/photo-1734671223970-16adb03bedb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHhqUFI0aGxrQkdBfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "這怎麼那麼好吃！",
-            "rate": 4.5
+            "name": "Kate",
+            "profileImg": "https://plus.unsplash.com/premium_photo-1663089557160-167c099a24df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2024 / 01 / 25",
+            "comment": "你的示範動作流暢又優雅，完全是我的滑雪榜樣！",
+            "rate": 3.8
           },
           "response": {
-            "name": "apple",
-            "profileImg": "https://images.unsplash.com/photo-1735500810691-054f62b7bea1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfEJuLURqcmNCcndvfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "真是太棒了！"
+            "date": "2024 / 01 / 26",
+            "comment": "你的信心提升了很多，這就是成長的關鍵！"
           }
         }
       ]
@@ -464,17 +460,15 @@
       "reviews": [{
           "id": 1,
           "student": {
-            "name": "cat",
-            "profileImg": "https://images.unsplash.com/photo-1734671223970-16adb03bedb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHhqUFI0aGxrQkdBfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "這怎麼那麼好吃！",
-            "rate": 4.5
+            "name": "Kyle",
+            "profileImg": "https://images.unsplash.com/photo-1594954825820-e9ebfd9d0e21?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2024 / 09 / 15",
+            "comment": "你能根據每個人的程度調整教學，真的很厲害！",
+            "rate": 4.3
           },
           "response": {
-            "name": "apple",
-            "profileImg": "https://images.unsplash.com/photo-1735500810691-054f62b7bea1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfEJuLURqcmNCcndvfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "真是太棒了！"
+            "date": "2024 / 09 / 16",
+            "comment": "每次看到你挑戰新難度都很替你開心，繼續保持這份勇氣！"
           }
         }
       ]
@@ -526,17 +520,15 @@
       "reviews": [{
           "id": 1,
           "student": {
-            "name": "cat",
-            "profileImg": "https://images.unsplash.com/photo-1734671223970-16adb03bedb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHhqUFI0aGxrQkdBfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "這怎麼那麼好吃！",
-            "rate": 4.5
+            "name": "Bill",
+            "profileImg": "https://images.unsplash.com/photo-1522575220427-ca4d3345c5e4?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2022 / 08 / 28",
+            "comment": "不僅技術好，還懂得如何讓學員克服恐懼，真的很感謝！",
+            "rate": 4.8
           },
           "response": {
-            "name": "apple",
-            "profileImg": "https://images.unsplash.com/photo-1735500810691-054f62b7bea1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfEJuLURqcmNCcndvfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "真是太棒了！"
+            "date": "2022 / 08 / 29",
+            "comment": "你的進步速度讓我印象深刻，下次一起挑戰更刺激的雪道！"
           }
         }
       ]
@@ -588,17 +580,15 @@
       "reviews": [{
           "id": 1,
           "student": {
-            "name": "cat",
-            "profileImg": "https://images.unsplash.com/photo-1734671223970-16adb03bedb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHhqUFI0aGxrQkdBfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "這怎麼那麼好吃！",
-            "rate": 4.5
+            "name": "Frank",
+            "profileImg": "https://images.unsplash.com/photo-1711631139857-f1464616fc2a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2021 / 03 / 06",
+            "comment": "在你的指導下，我學會了正確的技巧，進步比我想像中快很多！",
+            "rate": 3.4
           },
           "response": {
-            "name": "apple",
-            "profileImg": "https://images.unsplash.com/photo-1735500810691-054f62b7bea1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfEJuLURqcmNCcndvfHxlbnwwfHx8fHw%3D",
-            "date": "2025 / 11 / 15",
-            "comment": "真是太棒了！"
+            "date": "2021 / 03 / 07",
+            "comment": "能教到這麼認真的學員是我的幸運，一起加油！"
           }
         }
       ]
