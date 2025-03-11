@@ -1765,5 +1765,31 @@
     },
     "selectCoach":[8,3,9]
     }
-  ]
+  ],
+  "users": [
+     {
+       "id": 1,
+       "user": "小明",
+       "mobile": "0912345678",
+       "email": "ming@ggmail.com",
+       "password": "123123",
+       "identity": "member"
+     },
+     {
+       "id": 2,
+       "user": "漂亮阿姨",
+       "mobile": "0912345678",
+       "email": "ee@ggmail.com",
+       "password": "123123",
+       "identity": "admin"
+     },
+     {
+       "id": 3,
+       "user": "杰倫",
+       "mobile": "0912345678",
+       "email": "jj@ggmail.com",
+       "password": "123123",
+       "identity": "member"
+     }
+   ]
 }
