@@ -592,6 +592,126 @@
           }
         }
       ]
+    },{
+      "id": 10,
+      "name": "Charlie",
+      "profileImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/gggg.jpeg?alt=media&token=8a719f39-9cff-46d7-964a-d5f6626d666e",
+      "skills": ["單板"],
+      "sex": "男",
+      "LV": 4,
+      "lang": ["日語","英語"],
+      "charge": 17980,
+      "feeLv": "chargeLV3",
+      "houses": ["house1", "house2", "house3", "house5"],
+      "rate": {
+        "stars": 4.2,
+        "rateNum": 649
+      },
+      "tag": ["滑雪心靈導師","幫助學員突破恐懼","學員信賴"],
+      "description": "我是 Charlie，經驗豐富、老練穩健的滑雪教練。多年的雪場教學讓我深知，每位學員都有自己的節奏與學習方式，因此，我的教學強調耐心、細節與因材施教。我不只關注技巧的提升，更重視基礎的穩固與安全，確保你能在雪道上穩定發展、持續進步。滑雪是一門講求平衡與控制的運動，我會一步步引導你掌握關鍵技巧，讓你在各種雪況下都能自如應對。無論你是初學者還是希望突破瓶頸的滑雪者，我都能提供最適合你的訓練方式，幫助你在雪道上建立信心、發揮最佳實力。讓我們一起享受滑雪的樂趣，在雪地中探索無限可能！",
+      "exp": ["2017 北海道 札幌國際","2020 北海道 札幌手稻","2024 哈爾濱 亞布力滑雪場","2024 三河谷 梅傑夫滑雪場"],
+      "license": [{
+        "licenseName": "指導證照 LV. 3",
+          "licenseImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/f3d90daa38125ee9b181c10a52eded97.jpg?alt=media&token=ae5e7a61-82fa-4ff9-a074-ff6102b1aab8"
+        },{
+          "licenseName": "教練證照 LV. 5",
+          "licenseImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/f3d90daa38125ee9b181c10a52eded97.jpg?alt=media&token=ae5e7a61-82fa-4ff9-a074-ff6102b1aab8"
+        }
+      ],
+      "img": [
+        "https://plus.unsplash.com/premium_photo-1669907525470-586042acc33c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1565992441121-4367c2967103?q=80&w=2023&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1516352267226-f5f3e4c53781?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://plus.unsplash.com/premium_photo-1661868371660-eac62d15361f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1532124957326-34c5605398?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1614358606268-aa86853578b4?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1551524559-8af4e6624178?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1528659862616-22886eb53642?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "reviews": [{
+          "id": 1,
+          "student": {
+            "name": "Tom",
+            "profileImg": "https://images.unsplash.com/photo-1676737052523-c45351e4c741?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2025 / 09 / 26",
+            "comment": "教練的教學方式真的很棒，讓我在輕鬆的氛圍中學習，而且完全不怕跌倒！",
+            "rate": 4.5
+          },
+          "response": {
+            "date": "2025 / 09 / 27",
+            "comment": "能看到你的進步，我比你更開心！滑雪就是這樣，越學越有成就感！"
+          }
+        }
+      ]
+    },{
+      "id": 11,
+      "name": "Diana",
+      "profileImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/aaaaa.jpeg?alt=media&token=251823c4-a969-47ef-8759-99a284a7d20f",
+      "skills": ["單板","雙板"],
+      "sex": "女",
+      "LV": 3,
+      "lang": ["日語","英語"],
+      "charge": 15380,
+      "feeLv": "chargeLV3",
+      "houses": ["house1", "house2", "house5"],
+      "rate": {
+        "stars": 3.6,
+        "rateNum": 389
+      },
+      "tag": ["細心指導","親切有耐心","打造自信滑雪者"],
+      "description": "嗨！我是 Diana，充滿活力、無時無刻都對滑雪感到興奮的教練！對我來說，滑雪不只是運動，而是一種令人熱血沸騰的極致體驗！當我站上雪道，感受風從耳邊呼嘯而過的瞬間，那種自由與快感讓我每次都充滿期待！我希望把這份熱情傳遞給你，讓你不只是學會技巧，而是真正享受滑行的樂趣！無論你是第一次踏上雪道，還是想突破自我，我都會用最有趣、最帶勁的方式幫助你進步！摔倒沒關係，我們爬起來繼續挑戰！滑雪就是要盡情享受、充滿笑聲，讓每一次滑行都成為難忘的回憶！準備好了嗎？讓我們一起衝刺雪道，感受純粹的速度與快樂吧！🔥",
+      "exp": ["2017 北海道 札幌國際","2019 長野 志賀高原滑雪場","2020 北海道 札幌手稻","2024 皇后鎮 卡多納滑雪場"],
+      "license": [{
+        "licenseName": "指導證照 LV. 3",
+          "licenseImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/f3d90daa38125ee9b181c10a52eded97.jpg?alt=media&token=ae5e7a61-82fa-4ff9-a074-ff6102b1aab8"
+        },{
+          "licenseName": "教練證照 LV. 5",
+          "licenseImg": "https://firebasestorage.googleapis.com/v0/b/gameblog-90b12.appspot.com/o/f3d90daa38125ee9b181c10a52eded97.jpg?alt=media&token=ae5e7a61-82fa-4ff9-a074-ff6102b1aab8"
+        }
+      ],
+      "img": [
+        "https://plus.unsplash.com/premium_photo-1669907525470-586042acc33c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1565992441121-4367c2967103?q=80&w=2023&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1516352267226-f5f3e4c53781?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://plus.unsplash.com/premium_photo-1661868371660-eac62d15361f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1532124957326-34c5605398?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1614358606268-aa86853578b4?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1551524559-8af4e6624178?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
+        "https://images.unsplash.com/photo-1528659862616-22886eb53642?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "reviews": [{
+          "id": 1,
+          "student": {
+            "name": "Ellie",
+            "profileImg": "https://images.unsplash.com/photo-1615377822739-1977ea6ba189?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "date": "2021 / 09 / 26",
+            "comment": "滑雪真的太有趣了，教練的熱情完全感染到我，現在完全愛上這項運動！",
+            "rate": 3.4
+          },
+          "response": {
+            "date": "2021 / 09 / 27",
+            "comment": "你的進步速度真的超快，說不定哪天你也能成為滑雪教練喔！"
+          }
+        }
+      ]
     }
   ],
   "orders":[
